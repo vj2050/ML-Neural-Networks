@@ -1,2 +1,2 @@
 # ML-Neural-Networks
-Designing an Artificial Neural Network for Multi-class classification of MNIST data
+Designing an Artificial Neural Network for Multi-class classification of MNIST data using NumPy.
